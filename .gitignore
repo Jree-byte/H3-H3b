@@ -16,3 +16,14 @@ __pycache__/
 # Build-kansiot
 dist/
 build/
+
+# Node.js
+node_modules/
+
+# Qt build ja välimuisti
+build/
+*.qtc_clangd/
+
+# Python
+__pycache__/
+*.pyc
